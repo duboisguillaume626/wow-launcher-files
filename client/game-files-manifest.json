@@ -1,0 +1,13 @@
+{
+  "version": "2026.02.25.0",
+  "updated_at": "2026-02-25T14:32:31.273Z",
+  "release_tag": "latest",
+  "files": [
+    {
+      "name": "Wow.exe",
+      "path": "Wow.exe",
+      "hash": "sha256:3b78febd4d18a018c750e512bdf5c22489b10e5cc86a5ecddb5516f7a66deb58",
+      "size": 7704216
+    }
+  ]
+}
